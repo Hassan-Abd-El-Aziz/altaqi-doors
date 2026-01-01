@@ -59,11 +59,12 @@ header {
 .logo h1 {
   font-size: 1.5rem;
   color: var(--primary-color);
-  margin-right: 10px;
+  margin-right: 5px;
+  text-decoration: none;
 }
 
 .logo img {
-  height: 50px;
+  height: 70px;
 }
 
 .nav-links {
